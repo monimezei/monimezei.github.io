@@ -16,8 +16,8 @@ h1{
   color:#1c1c1c;
 }
 .first{
-  margin-left:130px;
-  margin-right:50px;
+  margin-left:200px;
+  margin-right:200px;
   font-family: 'Josefin Sans', sans-serif;
   margin-top:20px;
   color:#585858;
@@ -55,8 +55,8 @@ blockquote{
   padding-bottom:0px;
 }
 .second{
-  margin-left:130px;
-  margin-right:50px;
+  margin-left:200px;
+  margin-right:200px;
   font-family: 'Josefin Sans', sans-serif;
   color:#585858;
 }
